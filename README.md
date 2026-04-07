@@ -1,7 +1,7 @@
 ## the-sleepless-coder
 
 ### 📄 Notion 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Notion-black?style=for-the-badge&logo=notion)]https://www.notion.so/the-sleepless-coder-2c4672f2fdeb802999c5df800af94e6e
+🔗 https://www.notion.so/the-sleepless-coder-2c4672f2fdeb802999c5df800af94e6e
 
 <!--
 **the-sleepless-coder/the-sleepless-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
