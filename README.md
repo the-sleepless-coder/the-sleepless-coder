@@ -1,4 +1,9 @@
-## Hi there 👋
+## the-sleepless-coder 👋
+
+### 📄 Notion 
+링크: https://www.notion.so/the-sleepless-coder-2c4672f2fdeb802999c5df800af94e6e
+
+
 
 <!--
 **the-sleepless-coder/the-sleepless-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
