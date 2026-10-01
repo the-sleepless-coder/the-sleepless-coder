@@ -1,7 +1,7 @@
 ## 자기 소개
-백엔드 개발자, the-sleepless-coder입니다.
+1년차 백엔드 개발자, the-sleepless-coder입니다.
 
-## Portfolio
+## 🚀 Portfolio
 👉 [포트폴리오 보러 가기](https://your-portfolio-url.com)
 
 ### 📄 Notion 
