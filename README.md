@@ -1,4 +1,4 @@
-## Introduction
+## 🧑‍💻 Introduction
 1년차 백엔드 개발자, the-sleepless-coder입니다.
 
 ## 🚀 Portfolio
