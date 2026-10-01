@@ -1,4 +1,8 @@
-## the-sleepless-coder
+## 자기 소개
+백엔드 개발자, the-sleepless-coder입니다.
+
+## Portfolio
+👉 [포트폴리오 보러 가기](https://your-portfolio-url.com)
 
 ### 📄 Notion 
 🔗 https://www.notion.so/the-sleepless-coder-2c4672f2fdeb802999c5df800af94e6e
